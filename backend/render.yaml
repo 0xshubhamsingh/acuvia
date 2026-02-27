@@ -9,3 +9,5 @@ services:
     envVars:
       - key: PYTHONIOENCODING
         value: utf-8
+      - key: PYTHON_VERSION
+        value: 3.11.10
