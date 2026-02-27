@@ -41,6 +41,7 @@ backend/logs/*.json
 # --- Environment variables ---
 .env
 .env.test
+.env.production
 
 # --- OS generated files ---
 .DS_Store
