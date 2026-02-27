@@ -1,4 +1,4 @@
-# Acuvia — Precision Triage. Powered by AI.
+# Acuvia - Precision Triage. Powered by AI.
 
 An AI-driven symptom triage and risk prioritization system. This is a **clinical decision-support triage tool**, not a diagnosis system.
 
